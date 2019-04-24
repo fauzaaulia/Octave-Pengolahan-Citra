@@ -14,3 +14,5 @@ Daftar code pengolahan citra dengan octave
 - pemutaran citra
 - pergeseran citra
 - morfologi erosi
+- morfologi dilatasi
+- morfologi opening
