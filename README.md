@@ -13,3 +13,4 @@ Daftar code pengolahan citra dengan octave
 - pemerataan
 - pemutaran citra
 - pergeseran citra
+- morfologi erosi
